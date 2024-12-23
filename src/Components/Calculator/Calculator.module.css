@@ -1,0 +1,9 @@
+.calcbody{display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    grid-gap: 10px;
+    direction: rtl;
+}
+.container{
+    margin: 0 auto;
+    
+}
